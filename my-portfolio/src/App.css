@@ -1,15 +1,15 @@
-.App {
-  text-align: center;
+HTML {
+  background-color: #282c34;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  text-align: center;
+  background-color: #282c34;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .logo {
+    animation: vibrate 0.3s linear infinite both;
   }
 }
 
@@ -23,7 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.pageBody {
+  color: white;
+  height: 100%;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+}
 .App-link {
   color: #61dafb;
 }
