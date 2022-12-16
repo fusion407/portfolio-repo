@@ -26,7 +26,23 @@ HTML {
 .pageBody {
   color: white;
   height: 100%;
+  margin-top: 2rem;
 }
+li {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  align-content: center;
+}
+.homeBodyText {
+  margin-top: 2rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
+}
+.homeStackText {
+  margin-top: 2rem;
+}
+
 .logo {
   height: 100px;
   width: 100px;
