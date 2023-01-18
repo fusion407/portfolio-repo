@@ -35,9 +35,10 @@ li {
   align-content: center;
 }
 .homeBodyText {
-  margin-top: 2rem;
+  margin-top: 5rem;
   margin-right: 2rem;
   margin-left: 2rem;
+
 }
 .homeStackText {
   margin-top: 2rem;
@@ -48,14 +49,5 @@ li {
   width: 100px;
 }
 .App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  color: #4b0000;
 }
