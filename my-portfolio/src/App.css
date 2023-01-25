@@ -23,10 +23,15 @@ HTML {
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 .pageBody {
   color: white;
   height: 100%;
   margin-top: 2rem;
+}
+.visualizer {
+  height:100%;
+  width:auto;
 }
 li {
   display: flex;
